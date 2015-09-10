@@ -1,0 +1,13 @@
+import webbrowser #import the webbrowser module to open the url video link when its break time
+import time    #import the time module. This module helps to determine the interval of time to go for break
+
+total_breaks =3  #number of break times to go its 3
+break_count =0  #break time counter
+
+print("This program started on" + time.ctime()) #prints out the current time at which the programme was used
+while(break_count < total_breaks): # to control the number of break times, the programme stop when the user have 
+                                   # gone for three consecutive breaks
+
+      time.sleep(2 * 1) # Open new video url every 6mins 
+      webbrowser.open("https://www.youtube.com/watch?v=uBWrpVrazzA") # youtube url link
+      break_count +=1 # increment break time
