@@ -1,6 +1,6 @@
 # Python_Project_Take_A_Break
 This program schedules a break time for one who works to many hours, reminding one to listen to music, get up and dance to their favorite song<br>
-## 1. Instructions - How To Run The Program
+## Instructions - How To Run The Program
 ### i. Install Python (Windows)
 a. Navigate to the Python downloads page (https://www.python.org/downloads/) that indexes downloads for the most recent versions of Python.<br>
 b. Download the Windows x86 MSI installer. If you're sure that your machine runs a 64-bit version of Windows, feel free to download the Windows x86-64 MSI installer instead.<br>
@@ -18,4 +18,8 @@ c. Open the file that you downloaded. It should either be called "python-2.7.12-
 d. Follow the steps in the Python Installer to successfully install Python.<br>
 e. To confirm that your installation was successful, open IDLE, a program installed by Python that makes it easy to edit and run Python code.
 ##### - It should be in your Applications folder.
-##### - You can also use Spotlight by pressing ⌘+Space and typing in "idle" to find it.
+##### - You can also use Spotlight by pressing ⌘+Space and typing in "idle" to find it.<br>
+### iii. Run The Program
+a. While the IDLE is still open navigate to File>New File
+b. Copy the code for this program from here and paste it into the newly created file
+c. Save the file and Select "Run Module" from the "Run" from the top menu options
