@@ -20,6 +20,6 @@ e. To confirm that your installation was successful, open IDLE, a program instal
 ##### - It should be in your Applications folder.
 ##### - You can also use Spotlight by pressing ⌘+Space and typing in "idle" to find it.<br>
 ### iii. Run The Program
-a. While the IDLE is still open navigate to File>New File
-b. Copy the code for this program from here and paste it into the newly created file
-c. Save the file and Select "Run Module" from the "Run" from the top menu options
+a. While the IDLE is still open navigate to File>New File<br>
+b. Copy the code for this program from here and paste it into the newly created file<br>
+c. Save the file and Select "Run Module" from the "Run" from the top menu options<br>
