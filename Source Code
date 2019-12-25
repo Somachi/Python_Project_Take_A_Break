@@ -8,6 +8,6 @@ print("This program started on" + time.ctime()) #prints out the current time at 
 while(break_count < total_breaks): # to control the number of break times, the programme stop when the user have 
                                    # gone for three consecutive breaks
 
-      time.sleep(2 * 60) # Open new video url every 2mins 
+      time.sleep(2 * 5) # Open new video url every 10secs 
       webbrowser.open("https://www.youtube.com/watch?v=uBWrpVrazzA") # youtube url link
       break_count +=1 # increment break time
